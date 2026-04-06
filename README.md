@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Thomas! 👋
 
-<!--
-**thomasbatista/thomasbatista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Development Student 
+**Building functional solutions and exploring backend architecture.**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Software Development student focused on building clean, efficient code. I enjoy developing automated systems and exploring new technologies to solve complex problems.
+
+## Github Stats
+
+<div align="center">
+      <img width="439px" src="https://github-readme-streak-stats.herokuapp.com/?user=thomasbatista&theme=blue_navy&hide_border=true"/>
+</div>
+
+### 🛠 Languages and Tools
+
+<img src="https://skillicons.dev/icons?i=java,typescript,js,react,nodejs,python,cpp,html,css,postman,git,github,vscode," />
+
+## 📚 Learning
+
+<img src="https://skillicons.dev/icons?i=spring,aws,docker,next" />
+
+## 🗃️ DataBases
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
+
+### 📫 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-batista-97875b373)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thomasbatistap@gmail.com)
+
+*"Focusing on long-term growth, one commit at a time."*
