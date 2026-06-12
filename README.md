@@ -1,4 +1,4 @@
-# Hi, I'm Thomas! 👋
+# Hi, I'm Thomas! 
 ### Software Development Student
 **Building functional solutions and exploring backend architecture**
 
