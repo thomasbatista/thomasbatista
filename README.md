@@ -1,5 +1,5 @@
 # Hi, I'm Thomas!
-### Backend Developer | Java & Spring Boot | ADS Student
+### Backend Developer | Java & Spring Boot 
 **Building REST APIs and full-stack solutions with clean, purposeful code**
 
 ---
