@@ -1,10 +1,10 @@
-# Hi, I'm Thomas! 
-### Software Development Student
-**Building functional solutions and exploring backend architecture**
+# Hi, I'm Thomas!
+### Backend Developer | Java & Spring Boot | ADS Student
+**Building REST APIs and full-stack solutions with clean, purposeful code**
 
 ---
 
-I'm a Software Development student passionate about writing clean, efficient code. I enjoy building automated systems, diving into backend architecture, and leveraging new technologies to solve real-world problems.
+I'm a Systems Analysis & Development student passionate about backend development. I build REST APIs and full-stack applications using Java, Spring Boot, and PostgreSQL — including a real-world construction management system delivered to a client. I also work with React and TypeScript on the frontend when needed.
 
 ## Github Stats
 <div align="center">
@@ -12,16 +12,16 @@ I'm a Software Development student passionate about writing clean, efficient cod
 </div>
 
 ### 🛠 Languages and Tools
-<img src="https://skillicons.dev/icons?i=java,typescript,js,react,nodejs,python,cpp,html,css,postman,git,github,vscode," />
+<img src="https://skillicons.dev/icons?i=java,spring,typescript,js,react,nodejs,python,html,css,postman,git,github,vscode" />
 
 ## 📚 Currently Learning
-<img src="https://skillicons.dev/icons?i=spring,aws,docker,next" />
+<img src="https://skillicons.dev/icons?i=docker,aws" />
 
 ## 🗃️ Databases
 <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 
 ### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-batista-97875b373)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-batista-pinto-97875b373)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thomasbatistap@gmail.com)
 
 *"Focusing on long-term growth, one commit at a time."*
